@@ -16,7 +16,7 @@
 
 ### Quick Install (Linux/macOS)
 ```bash
-cd hci-video-analyzer
+cd ChronoLens
 ./install.sh
 ```
 
