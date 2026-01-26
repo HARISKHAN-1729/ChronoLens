@@ -385,7 +385,7 @@ If you use this tool in research, please cite:
 ```bibtex
 @software{hci_video_analyzer_2026,
   title={HCI Multi-Video Analysis Tool},
-  author={Your Name},
+  author={Muhammad Haris Khan},
   year={2026},
   url={https://github.com/yourusername/hci-video-analyzer}
 }
