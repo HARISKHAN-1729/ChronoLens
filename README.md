@@ -391,6 +391,4 @@ If you use this tool in research, please cite:
 }
 ```
 
----
 
-**Built with ❤️ using 100% open-source AI**
