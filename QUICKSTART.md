@@ -5,7 +5,7 @@
 ### Option 1: Automated Installation (Linux/macOS)
 
 ```bash
-cd hci-video-analyzer
+cd ChronoLens
 ./install.sh
 ```
 
